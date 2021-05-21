@@ -118,3 +118,7 @@ h1 {
     font-size: 12pt;
     margin-left: 5px;
 }
+
+#inputText {
+    width: 100px;
+}
