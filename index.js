@@ -31,7 +31,7 @@ clear.addEventListener('click', () =>{
         let children = child[i];
         for(let i = 0; i < children.childNodes.length; i++) {
             let box = children.childNodes[i];
-            box.style.backgroundColor = "black";
+            box.style.backgroundColor = "transparent";
         }
     }
 })
